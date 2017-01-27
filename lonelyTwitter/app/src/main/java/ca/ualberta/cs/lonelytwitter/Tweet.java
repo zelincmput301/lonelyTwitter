@@ -22,6 +22,11 @@ public abstract class Tweet implements Tweetable{
 
     public abstract Boolean isImportant();
 
+    @Override
+    public String toString(){
+        return date.toString() + " | " + message;
+    }
+
     public void setMessage(String message) throws TweetTooLongException {
         if (message.length() > 140){
             throw new TweetTooLongException();
