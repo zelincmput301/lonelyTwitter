@@ -2,11 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/afs/ualberta.ca/home/z/e/zelin/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jar="G:\Users\ZL\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
-        <dex dex="/afs/ualberta.ca/home/z/e/zelin/Documents/gitproject/lonelyTwitter/app/build/intermediates/pre-dexed/debug/gson-2.8.0-f4cc51e53d384d57319e556b7a505b4143dda304.jar" />
+        <dex dex="L:\lonelyTwitter-master\lonelyTwitter\app\build\intermediates\pre-dexed\debug\gson-2.8.0-bb28197bb9d64e7ad2b77b587d5901c80544d9ab.jar" />
     </item>
 
 </items>
